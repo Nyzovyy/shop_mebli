@@ -1,0 +1,1 @@
+<a href={{url('/password/recover/'.$token)}}>{{$user->name}}</a>
